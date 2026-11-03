@@ -1,4 +1,4 @@
-# Project3_6713249
+# Chocolate_Hunter_Battle_Game
 Anun Luechaphongthip         6713253
 Puvit Kitiwongpaisan         6713246
 Kanapod Lamthong             6713220
