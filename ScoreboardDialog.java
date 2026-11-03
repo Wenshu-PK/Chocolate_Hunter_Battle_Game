@@ -1,4 +1,4 @@
-package Project3_6713249;
+package Chocolate_Hunter_Battle_Game;
 
 import javax.swing.*;
 import javax.swing.table.*;
